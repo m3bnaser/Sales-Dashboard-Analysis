@@ -139,3 +139,4 @@ For any questions, feedback, or support related to the Sales Dashboard, please c
 - **Name:** Mohamed Abdelnaser
 - **Email:** abonaser3401@gmail.com
 - **Phone:** +20-1097734714
+- **LinkedIn:** https://www.linkedin.com/in/3bnaser01
