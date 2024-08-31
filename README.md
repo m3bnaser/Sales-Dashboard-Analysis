@@ -4,7 +4,7 @@ Welcome to the Sales Dashboard! This document provides an overview of the dashbo
 
 ## Table of Contents 📚
 
-1. [Overview](#overview)
+1. [Overview](##overview)
 2. [Source Data](#source-data)
 3. [Data Transformation](#data-transformation)
 4. [Data Model](#data-model)
