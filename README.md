@@ -20,7 +20,8 @@ Welcome to the Sales Dashboard! This document provides an overview of the dashbo
 
 The Sales Dashboard is designed to provide comprehensive insights into sales performance across various territories and product lines. By transforming raw transaction data into a structured and interactive dashboard, users can easily analyze sales trends, identify top-performing regions and products, and make informed business decisions.
 
-![image](https://github.com/user-attachments/assets/d087a70d-2614-4046-914b-aefd4b53050f)
+![image](https://github.com/user-attachments/assets/a40314a3-2da0-49bd-b6a7-0ad9e5b65b82)
+
 
 
 ## Source Data 🗂️
@@ -42,6 +43,9 @@ To ensure efficient data analysis and reporting, the raw transaction data underw
 ## Data Model 🗃️
 
 The transformed data follows a **star schema**, which consists of a central fact table surrounded by dimension tables. This structure optimizes query performance and simplifies the reporting process.
+
+![image](https://github.com/user-attachments/assets/fe03e813-9914-475b-af8c-bc32252ee917)
+
 
 ### Fact Table
 
