@@ -6,7 +6,8 @@ Welcome to the Sales Dashboard! This document provides an overview of the dashbo
 
 The Sales Dashboard is designed to provide comprehensive insights into sales performance across various territories and product lines. By transforming raw transaction data into a structured and interactive dashboard, users can easily analyze sales trends, identify top-performing regions and products, and make informed business decisions.
 
-![image](https://github.com/user-attachments/assets/a40314a3-2da0-49bd-b6a7-0ad9e5b65b82)
+![image](https://github.com/user-attachments/assets/356ebc97-5b8d-4e73-9d6d-0f6ec1c5c04d)
+
 
 
 
