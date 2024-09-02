@@ -2,17 +2,6 @@
 
 Welcome to the Sales Dashboard! This document provides an overview of the dashboard, insights gathered from the data, transformation processes, and explanations of key features and visuals. Whether you're a stakeholder, team member, or new user, this guide will help you understand and navigate the dashboard effectively.
 
-Table of Contents 📚
-Overview 
-Source Data
-Data Transformation
-Data Model
-Measures
-Dashboard Features & Insights
-Territory Tooltip (https://github.com/m3bnaser/Sales-Dashboard-Analysis?tab=readme-ov-file#territory-tooltip-%EF%B8%8F)
-Usage Instructions
-Contact Information
-
 ## Overview 🌐
 
 The Sales Dashboard is designed to provide comprehensive insights into sales performance across various territories and product lines. By transforming raw transaction data into a structured and interactive dashboard, users can easily analyze sales trends, identify top-performing regions and products, and make informed business decisions.
